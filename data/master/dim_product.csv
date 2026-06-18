@@ -1,0 +1,82 @@
+product_key,sku_canon,product_name,brand_canon,category_canon,rrp_eur,valid_from,valid_to
+1,SKU-77131,Air Zoom Pegasus,Nike,Running,119.99,2024-01-01,2099-12-31
+2,SKU-77262,Pegasus Trail,Nike,Running,139.99,2024-01-01,2099-12-31
+3,SKU-77393,React Infinity,Nike,Running,149.99,2024-01-01,2099-12-31
+4,SKU-77524,Vaporfly Next,Nike,Running,249.99,2024-01-01,2099-12-31
+5,SKU-77655,Dri-Fit Tee,Adidas,Training,49.99,2024-01-01,2099-12-31
+6,SKU-77786,Ultraboost Light,Adidas,Running,179.99,2024-01-01,2099-12-31
+7,SKU-77917,Adizero Adios,Adidas,Running,159.99,2024-01-01,2099-12-31
+8,SKU-78048,Stan Smith,Adidas,Lifestyle,99.99,2024-01-01,2099-12-31
+9,SKU-78179,Terrex Jacket,The North Face,Outdoor,129.99,2024-01-01,2099-12-31
+10,SKU-78310,Nuptse Down Jacket,The North Face,Outdoor,299.99,2024-01-01,2099-12-31
+11,SKU-78441,Vectiv Fastpack,The North Face,Outdoor,159.99,2024-01-01,2099-12-31
+12,SKU-78572,Gel-Kayano,Asics,Running,189.99,2024-01-01,2099-12-31
+13,SKU-78703,Gel-Nimbus,Asics,Running,199.99,2024-01-01,2099-12-31
+14,SKU-78834,Novablast,Asics,Running,139.99,2024-01-01,2099-12-31
+15,SKU-78965,Glycerin 21,Brooks,Running,169.99,2024-01-01,2099-12-31
+16,SKU-79096,Ghost 16,Brooks,Running,149.99,2024-01-01,2099-12-31
+17,SKU-79227,Clifton 9,Hoka,Running,159.99,2024-01-01,2099-12-31
+18,SKU-79358,Bondi 8,Hoka,Running,179.99,2024-01-01,2099-12-31
+19,SKU-79489,Speedgoat 5,Hoka,Outdoor,149.99,2024-01-01,2099-12-31
+20,SKU-79620,Salomon Speedcross,Salomon,Outdoor,144.99,2024-01-01,2099-12-31
+21,SKU-79751,Salomon XA Pro,Salomon,Outdoor,169.99,2024-01-01,2099-12-31
+22,SKU-79882,Quest 4 GTX,Salomon,Outdoor,199.99,2024-01-01,2099-12-31
+23,SKU-80013,MX Trainer,New Balance,Training,99.99,2024-01-01,2099-12-31
+24,SKU-80144,Fresh Foam 1080,New Balance,Running,169.99,2024-01-01,2099-12-31
+25,SKU-80275,574 Classic,New Balance,Lifestyle,99.99,2024-01-01,2099-12-31
+26,SKU-80406,Old Skool,Vans,Lifestyle,79.99,2024-01-01,2099-12-31
+27,SKU-80537,Sk8-Hi,Vans,Lifestyle,89.99,2024-01-01,2099-12-31
+28,SKU-80668,Chuck Taylor,Converse,Lifestyle,74.99,2024-01-01,2099-12-31
+29,SKU-80799,Rivalry Mid,Adidas,Lifestyle,89.99,2024-01-01,2099-12-31
+30,SKU-80930,Air Force 1,Nike,Lifestyle,119.99,2024-01-01,2099-12-31
+31,SKU-81061,Tech Fleece Hoodie,Nike,Training,99.99,2024-01-01,2099-12-31
+32,SKU-81192,Essentials Hoodie,Adidas,Training,59.99,2024-01-01,2099-12-31
+33,SKU-81323,Future Icons Pant,Adidas,Training,64.99,2024-01-01,2099-12-31
+34,SKU-81454,Pro Dri-Fit Tights,Nike,Training,44.99,2024-01-01,2099-12-31
+35,SKU-81585,Resolve Jacket,The North Face,Outdoor,119.99,2024-01-01,2099-12-31
+36,SKU-81716,Borealis Backpack,The North Face,Outdoor,99.99,2024-01-01,2099-12-31
+37,SKU-81847,Speedlite Vest,Salomon,Outdoor,89.99,2024-01-01,2099-12-31
+38,SKU-81978,Eco Trail Pants,Salomon,Outdoor,99.99,2024-01-01,2099-12-31
+39,SKU-82109,Goggle Sport,Oakley,Outdoor,149.99,2024-01-01,2099-12-31
+40,SKU-82240,Holbrook Sunglasses,Oakley,Lifestyle,129.99,2024-01-01,2099-12-31
+41,SKU-82371,Iconic Polo,Lacoste,Lifestyle,99.99,2024-01-01,2099-12-31
+42,SKU-82502,Tracksuit Pro,Puma,Training,69.99,2024-01-01,2099-12-31
+43,SKU-82633,Velocity Nitro,Puma,Running,119.99,2024-01-01,2099-12-31
+44,SKU-82764,Suede Classic,Puma,Lifestyle,79.99,2024-01-01,2099-12-31
+45,SKU-82895,Cell Endura,Puma,Lifestyle,89.99,2024-01-01,2099-12-31
+46,SKU-83026,Wave Rider 27,Mizuno,Running,149.99,2024-01-01,2099-12-31
+47,SKU-83157,Wave Sky 7,Mizuno,Running,169.99,2024-01-01,2099-12-31
+48,SKU-83288,Mach 5,Hoka,Running,139.99,2024-01-01,2099-12-31
+49,SKU-83419,Pegasus Premium,Nike,Running,159.99,2024-01-01,2099-12-31
+50,SKU-83550,Solar Boost,Adidas,Running,159.99,2024-01-01,2099-12-31
+51,SKU-83681,Endorphin Speed,Saucony,Running,179.99,2024-01-01,2099-12-31
+52,SKU-83812,Triumph 21,Saucony,Running,159.99,2024-01-01,2099-12-31
+53,SKU-83943,Kinvara 14,Saucony,Running,119.99,2024-01-01,2099-12-31
+54,SKU-84074,Outdoor Beanie,The North Face,Outdoor,34.99,2024-01-01,2099-12-31
+55,SKU-84205,Thermal Gloves,Salomon,Outdoor,39.99,2024-01-01,2099-12-31
+56,SKU-84336,Cycling Jersey,Castelli,Cycling,89.99,2024-01-01,2099-12-31
+57,SKU-84467,Cycling Bibshort,Castelli,Cycling,129.99,2024-01-01,2099-12-31
+58,SKU-84598,Road Helmet Pro,Giro,Cycling,149.99,2024-01-01,2099-12-31
+59,SKU-84729,MTB Helmet,Giro,Cycling,179.99,2024-01-01,2099-12-31
+60,SKU-84860,Bike Gloves,Castelli,Cycling,39.99,2024-01-01,2099-12-31
+61,SKU-84991,Yoga Mat Pro,Manduka,Fitness,89.99,2024-01-01,2099-12-31
+62,SKU-85122,Yoga Block,Manduka,Fitness,19.99,2024-01-01,2099-12-31
+63,SKU-85253,Resistance Set,TRX,Fitness,149.99,2024-01-01,2099-12-31
+64,SKU-85384,Pull-Up Bar,Reebok,Fitness,59.99,2024-01-01,2099-12-31
+65,SKU-85515,Boxing Gloves,Everlast,Fitness,49.99,2024-01-01,2099-12-31
+66,SKU-85646,Tennis Racquet Pro,Wilson,Tennis,199.99,2024-01-01,2099-12-31
+67,SKU-85777,Tennis Racquet Lite,Wilson,Tennis,129.99,2024-01-01,2099-12-31
+68,SKU-85908,Tennis Balls 4x,Wilson,Tennis,14.99,2024-01-01,2099-12-31
+69,SKU-86039,Padel Racquet,Head,Padel,199.99,2024-01-01,2099-12-31
+70,SKU-86170,Padel Balls 3x,Head,Padel,11.99,2024-01-01,2099-12-31
+71,SKU-86301,Football Pro Ball,Adidas,Football,39.99,2024-01-01,2099-12-31
+72,SKU-86432,Football Boots Elite,Nike,Football,229.99,2024-01-01,2099-12-31
+73,SKU-86563,Football Boots Mid,Adidas,Football,129.99,2024-01-01,2099-12-31
+74,SKU-86694,Shin Guards,Nike,Football,24.99,2024-01-01,2099-12-31
+75,SKU-86825,Goalie Gloves,Adidas,Football,59.99,2024-01-01,2099-12-31
+76,SKU-86956,Ski Helmet,Atomic,Ski,149.99,2024-01-01,2099-12-31
+77,SKU-87087,Ski Goggles,Atomic,Ski,109.99,2024-01-01,2099-12-31
+78,SKU-87218,Ski Jacket,Salomon,Ski,299.99,2024-01-01,2099-12-31
+79,SKU-87349,Ski Pants,Salomon,Ski,199.99,2024-01-01,2099-12-31
+80,SKU-87480,Trekking Pole,Black Diamond,Outdoor,89.99,2024-01-01,2099-12-31
+81,SKU-87611,Headlamp,Petzl,Outdoor,59.99,2024-01-01,2099-12-31
